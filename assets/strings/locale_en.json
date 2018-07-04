@@ -1,0 +1,29 @@
+{
+    "DEFAULT":{
+        "TEXT": "DEFAULT",
+        "STYLE": {
+            "fontFamily": "fredokaone-regular-webfont.woff",
+            "align": "left",
+            "fill": "#FFFFFF",
+            "fontSize": 60,
+            "fontWeight": "bolder",
+            "wordWrap": true,
+            "wordWrapWidth": 205
+        }
+    },
+
+    "LBL_TITLE":{
+        "TEXT": "TITLE",
+        "STYLE":{
+            "fontFamily": "fredokaone-regular-webfont.woff",
+            "align": "center",
+            "fill": "#FFFFFF",
+            "fontSize": 60,
+            "wordWrap": true,
+            "fontWeight": "bolder",
+            "wordWrapWidth": 205
+        }
+    },
+
+    "NONE" : "NONE"
+}

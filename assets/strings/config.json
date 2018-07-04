@@ -1,0 +1,16 @@
+{
+	"locale": {
+		"lang": "en",
+		"id": "locale_",
+		"url": "assets/strings/",
+		"font": {
+			"en": ["assets/fonts/londonbetween.woff"],
+			"default": ["assets/fonts/airbagfree-regular.woff"]
+		}
+	},
+	
+	"config":{
+		"debug_mode": false,
+		"enable_cheats": false
+	}
+}
